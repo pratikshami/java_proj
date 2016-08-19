@@ -1,0 +1,5 @@
+projectKey=java_sonar_eco
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/java_sonar_eco
+ceTaskId=AVahYiFdZmYc3u50AOGa
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVahYiFdZmYc3u50AOGa
